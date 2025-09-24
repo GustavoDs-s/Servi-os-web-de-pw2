@@ -1,0 +1,14 @@
+{
+  "name": "servi-os-web-de-pw2",
+  "version": "1.0.0",
+  "description": "Criando um serviço web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gustavo Dos Santos Silva",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^19.1.1"
+  }
+}
